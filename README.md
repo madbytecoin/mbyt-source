@@ -1,6 +1,7 @@
 # mbyt-source
 MBYT Coin has swapped to MADX Token
-https://madbyte.com https://madcapx.com
+https://madbyte.com 
+https://madcapx.com
 
 NOTICE: This coin codebase has been abandoned and all MBYT coins have been swapped to MADX tokens.
 
